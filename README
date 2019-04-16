@@ -1,0 +1,5 @@
+- App has been tested on iPhone XR, iPhone X, iPhone 8 and iPhone 7
+- I added animations on card reveals
+- I play a sound on a match
+- I decided to use storyboards since I was the only developer on this project and therefore are no merge conflict risks or difficult reviews to do of the storyboard
+- If you want to run this app on a device, make sure to select a team, since by default no team is selected
